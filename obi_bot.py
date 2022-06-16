@@ -1,3 +1,7 @@
+""" I created this bot for a group that wanted to keep giving our friend name Jacob a hard time for the
+ratings of the Obi Wan show that kept falling. It eventually turned into more and is now one of our 
+favorite bots."""
+
 from telegram.ext.updater import Updater
 from telegram.update import Update
 from telegram.ext.callbackcontext import CallbackContext
